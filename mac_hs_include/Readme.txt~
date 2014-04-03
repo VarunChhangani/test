@@ -23,7 +23,6 @@
 6) The main structure which we are using also declared here.
 7) Typedef has also placed in same directory.
 8) In wrapper file there are important function like harq,rq,reorder,disassembly's declaration has been given in it.
-(0 New file has more created.
 
 
 /************************************************************************************************************************************
