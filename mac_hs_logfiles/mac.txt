@@ -1,0 +1,44 @@
+
+DATA CREATED ON:-Tue Jan 29 09:51:41 2013
+
+IE's COPIED ARE:-
+
+
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+                        *****||||Waiting for the PHY layer*****||||
+
+                        ======>>>Data receiving started at time=09:53:00<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+"mac.txt" 5232L, 141155C                                                                                                    1,1-8         Top
+

@@ -1,0 +1,12 @@
+gcc -I. -g   -c -o send.o send.c
+gcc -I. -c nexg_printf.c -g
+gcc -I. -c nexg_fopen.c -g
+gcc -I. -c nexg_fclose.c -g
+gcc -I. -c nexg_fprintf.c -g
+gcc -I. -c nexg_msgget.c -g
+gcc -I. -c nexg_msgsnd.c -g
+gcc -I. -c nexg_msgrcv.c -g  
+gcc -I. -c nexg_msgctl.c -g 
+gcc -I. -c nexg_fread.c -g
+gcc -I. -c nexg_perror.c -g
+gcc -I. -o IN send.c nexg_printf.c nexg_fopen.c nexg_fclose.c nexg_fprintf.c nexg_msgget.c nexg_msgsnd.c nexg_msgrcv.c nexg_msgctl.c nexg_fread.c nexg_perror.c

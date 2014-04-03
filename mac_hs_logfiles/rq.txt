@@ -1,0 +1,44 @@
+
+DATA CREATED ON:-Tue Jan 29 11:02:32 2013
+
+
+                        *****||||Waiting for the Data*****||||
+
+                        ======>>>Data receiving started at time=13:25:29<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+DATA CREATED ON:-Tue Jan 29 11:02:32 2013
+
+
+                        *****||||Waiting for the Data*****||||
+
+                        ======>>>Data receiving started at time=13:25:29<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+DATA CREATED ON:-Tue Jan 29 13:36:46 2013
+
+
+                        *****||||Waiting for the Data*****||||
+
+                        ======>>>Data receiving started at time=15:01:51<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+DATA CREATED ON:-Tue Jan 29 15:16:46 2013
+
+
+                        *****||||Waiting for the Data*****||||
+
+                        ======>>>Data receiving started at time=15:17:58<<<======
+
+                        ======>>>Data receiving started on Date=Jan 29 2013<<<======
+
+DATA CREATED ON:-Tue Jan 29 15:16:46 2013
+
+
+                        *****||||Waiting for the Data*****||||
+
+"rq.txt" 657L, 15768C                                                                                                       1,1-8         Top
+

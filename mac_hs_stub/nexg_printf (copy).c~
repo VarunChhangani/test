@@ -1,0 +1,26 @@
+/*
+ ** All rights reserved – Nex-G Exuberant Solutions Private Limited.                                                               
+ ** File Name    : nexg_printf.c                                                                                            
+ ** Module Name  : MAC-HS                                                                                                      
+ ** Project Name : MAC-HS UE Side                                                                                                
+ ** Description  : definition of nexg_printf()                              
+ ** Author       : MAC-HS Project Team                                                                                           
+ ** Start date   :                                                                                                        
+ ** End date     :                                                                                                       
+ */
+
+#include "../include/header.h"
+
+void
+nexg_printf (char *format, ...)		/* wrapper function nexg_printf() starts */
+{
+va_list ap;
+va_start(ap,format);
+vprintf(format,ap);
+va_end(ap);
+}
+
+/************************************************************************************************************************************
+*                                              end of file nexg_printf.c                                                             *
+************************************************************************************************************************************/
+
